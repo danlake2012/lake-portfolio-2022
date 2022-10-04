@@ -7,11 +7,11 @@
 .hero-img::before {
     content: '';
     background-image: url('../assets/programming.jpg');
-    background-size: cover;
+    background-size: center;
     background-position: center bottom;
     height: 800px;
     width: 400px;
-    position: absolute;
+    position: relative;
     top: 0;
     left: 0;
     z-index: -1;
