@@ -58,8 +58,8 @@
 }
 @media screen and (max-width: 380px{
     .intro-img { 
-        width: 640px;
-        height: 320px;
+        width: 25%;
+        height: 25%;
         background-size: cover;
         background-position: center;
         object-fit: cover;
