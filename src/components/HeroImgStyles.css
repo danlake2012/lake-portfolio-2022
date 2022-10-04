@@ -1,5 +1,7 @@
 
 .intro-img {
+    display-flex;
+    flex-direction: column;
     width: 100%;    
     background-size: cover;
     background-position: center;
