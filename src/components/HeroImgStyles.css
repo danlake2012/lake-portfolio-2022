@@ -56,7 +56,17 @@
     margin: 1rem;
     
 }
+@media screen and (max-width: 380px{
+    .intro-img { 
+        width: 50%;
+        height: 50%;
+        background-size: cover;
+        background-position: center;
+        object-fit: cover;
+    }
 
+}
+    
 @media screen and (max-width: 640px) {
     .hero .content h1 {
         font-size: 3rem;
